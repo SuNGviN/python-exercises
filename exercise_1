@@ -1,0 +1,23 @@
+#Program that examines three variables x,y,z
+#Prints the largest odd number among them
+#If none of htem are odd, it should print a message to that effect.
+
+x = 2
+y = 4
+z = 3
+
+result = None
+
+if (x%2 != 0):
+    result = x
+
+if ((y > x or result is None) and y%2 != 0):
+    result = y
+
+if ((z > x or result is None) and z%2 != 0):
+    result = z
+
+if (result == None):
+    print('No odd numbers')
+else:
+    print(result)
