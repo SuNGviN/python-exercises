@@ -2,7 +2,9 @@
 
 Repository for storing scripts in python.
 
-Course name: Introduction to CS and Programming using Python
+# Course name: Introduction to CS and Programming using Python
+
+---
 
 Git Instructions:
 
