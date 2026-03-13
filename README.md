@@ -16,7 +16,7 @@ sudo pacman -S git
 2. Configure Git
 Set up your global user name and email, which are required for committing changes: 
 
-git config --global user.name "Your Name"
+git config --global user.name "Your Name"\
 git config --global user.email "youremail@example.com"
 
 3. Basic Git Usage
