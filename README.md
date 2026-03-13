@@ -42,6 +42,5 @@ git commit -m "Your commit message"
 git push
 
     Pull changes: Update your local repository with changes from the remote:
-    bash
-
-    git pull
+    bash\
+git pull
