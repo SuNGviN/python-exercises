@@ -21,7 +21,7 @@ git config --global user.email "youremail@example.com"
 
 3. Basic Git Usage
 
-    Clone a repository: Download an existing repository to your local machine:
+    Clone a repository: Download an existing repository to your local machine:\
 git clone <repository_url>
 
     Initialize a new repository: Start a new Git repository in the current directory:
