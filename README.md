@@ -24,20 +24,20 @@ git config --global user.email "youremail@example.com"
     Clone a repository: Download an existing repository to your local machine:\
 git clone <repository_url>
 
-    Initialize a new repository: Start a new Git repository in the current directory:
+    Initialize a new repository: Start a new Git repository in the current directory:\
 git init
 
-    Check status: See which files have been modified or staged:
+    Check status: See which files have been modified or staged:\
 git status
 
-    Add changes: Stage changes for commit:
+    Add changes: Stage changes for commit:\
 git add <file_name>  # Add a specific file
-git add .            # Add all changes in the directory
+git add .            # Add all changes in the directory\
 
-    Commit changes: Save the staged changes with a message:
+    Commit changes: Save the staged changes with a message:\
 git commit -m "Your commit message"
 
-    Push changes: Upload local commits to a remote repository:
+    Push changes: Upload local commits to a remote repository:\
 git push
 
     Pull changes: Update your local repository with changes from the remote:
